@@ -1,0 +1,21 @@
+{
+  "name": "safezone-ws",
+  "version": "1.0.0",
+  "description": "webservice-safezone",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^7.4.2",
+    "mongoose": "^4.11.6",
+    "request": "^2.83.0"
+  }
+}
